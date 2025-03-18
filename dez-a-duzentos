@@ -1,0 +1,19 @@
+import os
+
+os.system("cls")
+
+print("==============200 a 10 ================  ")
+
+input("Pressione <Enter> para continuar")
+
+
+
+os.system("cls")
+
+contador = 200
+
+while(contador >= 10):
+    print(contador)
+    contador -= 1
+
+
